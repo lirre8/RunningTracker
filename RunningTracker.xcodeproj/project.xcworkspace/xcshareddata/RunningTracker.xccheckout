@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>473B751D-7374-42CD-8E0F-481DA9DA0E4C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>RunningTracker</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C423BC62-680F-4D0A-90CD-800D36AAED27</key>
+		<string>https://github.com/lirre8/RunningTracker.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>RunningTracker.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C423BC62-680F-4D0A-90CD-800D36AAED27</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/lirre8/RunningTracker.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C423BC62-680F-4D0A-90CD-800D36AAED27</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C423BC62-680F-4D0A-90CD-800D36AAED27</string>
+			<key>IDESourceControlWCCName</key>
+			<string>RunningTracker</string>
+		</dict>
+	</array>
+</dict>
+</plist>
